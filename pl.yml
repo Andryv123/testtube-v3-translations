@@ -1,0 +1,20 @@
+# navbar
+login: zaloguj się
+register: zajerestruj się
+search: szukaj
+# sidebar/bottombar 
+home: strona główna
+subs: subskrybcje
+upload: upublikuj
+popular: popularne
+more: więcej
+settings: ustawienia
+
+# reusable?
+maintenance: konserwacja
+site_is_down_for_maintenance: strona jest nieczynna z powodu konserwacji
+
+username: nazwa użytkownika
+password: hasło
+confirm_password: potwierdź hasło
+i_agree_to_the_terms_of_service: zgadzam się z polityką używania serwisu
